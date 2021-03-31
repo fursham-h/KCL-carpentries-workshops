@@ -1,0 +1,26 @@
+url: https://fursham-h.github.io/KCL-carpentries-workshops/
+
+home:
+  title: "KCL Carpentries Workshops"
+  links:
+  - text: KCL Carpentries Page
+    href: KCL-Carpentries.github.io
+
+template:
+  params:
+    bootswatch: readable
+
+navbar:
+  type: inverse
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Syllabus"
+      icon: 'fas fa-book-open'
+      menu:
+        - text: "Introduction to R"
+          href: articles/introduction_to_R.html
+  right:
+    - icon: 'fab fa-github fa-lg'
+      href: https://github.com/KCL-Carpentries/KCL-Carpentries.github.io
