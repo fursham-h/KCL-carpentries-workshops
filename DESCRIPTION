@@ -1,0 +1,11 @@
+Package: KCL.lessons
+Title: KCL Carpentries Workshops
+Version: 0.99.0
+Authors@R: person("Fursham", "Hamid", 
+    email = "fursham.h@gmail.com", 
+    role = c("aut", "cre"))
+Depends: R (>= 4.0)
+Suggests: 
+  rmarkdown,
+  rmdformats
+VignetteBuilder: knitr
