@@ -1,5 +1,5 @@
 ---
-title: 'Workshop 1: R Basics for Data Analysis'
+title: 'Introduction to R, an SWC-like Workshop'
 author: "Fursham Hamid"
 output: html_document
 ---
@@ -12,26 +12,12 @@ output: html_document
 >
 > **Objectives**
 >
-> 1) Describe the purpose and use of each pane in the RStudio IDE
-> 2) Assign data to a variable
-> 3) Call functions
-> 4) Read data into R
-> 5) Describe the structure of a data-frame
-> 6) Use the six main data frame manipulation ‘verbs’ with pipes in `dplyr`
-> 7) Analyze a subset of data using logical filtering
+
 >
 ><br />
 
-## Before starting the lesson
-To facilitate the timeliness of the lesson, please ensure that you have these 
-programs installed on your computer.
+## Lesson pre-requisites
 
-* Latest version of R
-    - [For Windows](https://cran.r-project.org/bin/windows/base/)
-    - [For Mac](https://cran.r-project.org/bin/macosx/)
-    - [For Linux](https://cran.r-project.org/bin/linux/)
-        
-* [Latest version of RStudio](https://rstudio.com/products/rstudio/download/)
 
 ## Lesson schedule
 ||||
