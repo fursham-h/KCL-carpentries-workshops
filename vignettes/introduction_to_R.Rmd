@@ -1,41 +1,59 @@
 ---
 title: 'Introduction to R, an SWC-like Workshop'
-author: "Fursham Hamid"
 output: html_document
 ---
 
 > ### Overview
 ><br />
-> **Duration**: 2 hours
+> **Duration**: 9 hours (across 3 days)
 ><br />
 ><br />
 >
 > **Objectives**
 >
-
 >
-><br />
 
 ## Lesson pre-requisites
+Please ensure you have the latest version of R and RStudio installed on your 
+machine. This is important, as some packages used in the workshop may not 
+install correctly (or at all) if R is not up to date.
+
+* Download and install the latest version of R using one of the links below
+    - [For Windows](https://cran.r-project.org/bin/windows/base/)
+    - [For Mac](https://cran.r-project.org/bin/macosx/)
+    - [For Linux](https://cran.r-project.org/bin/linux/)
+* [Download and install RStudio here](https://www.rstudio.com/)
 
 
 ## Lesson schedule
-||||
-|:---|:------------|:------------|
-|00:00|Introduction and overview||
-|00:15|1.   [Introduction to R and RStudio](http://swcarpentry.github.io/r-novice-gapminder/01-rstudio-intro/index.html)| How do I navigate around RStudio? |
-|00:20|2.   [Basic R commands](http://swcarpentry.github.io/r-novice-gapminder/01-rstudio-intro/index.html)| How do I interact with R? <br>How do I use R functions?  |
-|00:40|3.   [Read](http://swcarpentry.github.io/r-novice-gapminder/04-data-structures-part1/index.html) and [write](http://swcarpentry.github.io/r-novice-gapminder/11-writing-data/index.html) data in R| How can I read data into R? <br>How can I export R data?  |
-|00:50|Break||
-|01:00|4.  [Data frame Manipulation with dplyr](http://swcarpentry.github.io/r-novice-gapminder/13-dplyr/index.html)| How can I easily manipulate data-frames?   |
-|01:50|Finish| |
+<br/>
 
+|Timings|Topic|Details|
+|:----------|:----------------|:-----------------------|
+|**Day 1 [14th April, Wed]**  ||
+|13:30-14:00|Pre workshop set up|Instructors/helpers available to make<br>sure participants have installed correct files and packages|
+|14:00 - 15:30*|[1. Introduction to R and RStudio](http://swcarpentry.github.io/r-novice-gapminder/01-rstudio-intro/index.html)| How to find your way around RStudio?<br>How to interact with R?<br>How to manage your environment?<br>How to install packages?|
+|15:30 - 15:45|**Break**||
+|15:45 - 16:30*|[2. Project Management With RStudio](http://swcarpentry.github.io/r-novice-gapminder/02-project-intro/index.html)| How can I manage my projects in R? |
+|16:30 - 17:00*|[3. Seeking Help](http://swcarpentry.github.io/r-novice-gapminder/03-seeking-help/index.html)|How can I get help in R?|
+|**Day 2 [21st April, Wed]**||
+|14:00 - 15:15*|We probabaly need an intro to dataframes here? What lesson would you use?	||
+|15:15 - 15:30|**Break**||
+|15:30- 17:00*|[5. Data frame Manipulation with dplyr](http://swcarpentry.github.io/r-novice-gapminder/13-dplyr/index.html)| How can I manipulate data frames without repeating myself? |
+|**Day 3 [28th April, Wed]** ||
+|14:00 - 15:45*|[6. Creating Publication-Quality Graphics with ggplot2](http://swcarpentry.github.io/r-novice-gapminder/08-plot-ggplot2/index.html)|How can I create publication-quality graphics in R?|
+|15:45- 16:00|**Break**||
+|16:00 - 17:00*|Insert another lesson here, or have an open session for questions and problems?	| |
 
+## Assessment
+The Carpentries value a culture of assessment, and we are consistently 
+evaluating our workshops to understand the impact workshops have on our 
+learners, and how we can improve our content delivery.  
 
+We conduct pre and post workshop surveys for each workshop
 
+* [Pre-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=V6gQbbOKn3NoPKfYKHjAKu_2BBCdtXXsTS2pf1BIdARccEtJQqlu1KFB2j2TcF0MCn)
+* [Post-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=uN5QPa4MbF1_2BB1plbLWnL1ZUc7Nttqici0Nc0e3G4RahMwwGW5NUp4U5PKQDYmky)
 
-
-
-
-
-
+<br/>
+<br/>
