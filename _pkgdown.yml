@@ -23,4 +23,4 @@ navbar:
           href: articles/introduction_to_R.html
   right:
     - icon: 'fab fa-github fa-lg'
-      href: https://github.com/KCL-Carpentries/KCL-Carpentries.github.io
+      href: https://github.com/fursham-h/KCL-carpentries-workshops
