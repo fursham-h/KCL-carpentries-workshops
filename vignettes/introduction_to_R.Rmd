@@ -16,13 +16,11 @@ output: html_document
 ## Lesson pre-requisites
 Please ensure you have the latest version of R and RStudio installed on your 
 machine. This is important, as some packages used in the workshop may not 
-install correctly (or at all) if R is not up to date.
+install correctly (or at all) if R is not up to date.  
 
-* Download and install the latest version of R using one of the links below
-    - [For Windows](https://cran.r-project.org/bin/windows/base/)
-    - [For Mac](https://cran.r-project.org/bin/macosx/)
-    - [For Linux](https://cran.r-project.org/bin/linux/)
-* [Download and install RStudio here](https://www.rstudio.com/)
+You may refer to this [link](https://datacarpentry.org/R-ecology-lesson/#preparations)
+for an easy-to-follow tutorial on how to install these softwares on your computer.  
+**Note: Please skip the section on `Install required R packages` for this workshop.**
 
 
 ## Lesson schedule
