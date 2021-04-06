@@ -2,16 +2,16 @@
 title: 'Introduction to R, an SWC-like Workshop'
 output: html_document
 ---
+> ## King's College London
+> 14th, 21st and 28th April 2021     
+> 2:00 am - 5:00 pm                       
+> 
+> **Instructors:** [Rohit Goswami](https://in.linkedin.com/in/haozeke), 
+[Sanjay Fuloria](https://in.linkedin.com/in/sanjayfuloria), 
+[Annajiat Alim Rasel](https://bd.linkedin.com/in/annajiat)   
+> **Helpers:** TBD
+> 
 
-> ### Overview
-><br />
-> **Duration**: 9 hours (across 3 days)
-><br />
-><br />
->
-> **Objectives**
->
->
 
 ## Lesson pre-requisites
 Please ensure you have the latest version of R and RStudio installed on your 
