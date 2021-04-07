@@ -50,8 +50,8 @@ learners, and how we can improve our content delivery.
 
 We conduct pre and post workshop surveys for each workshop
 
-* [Pre-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=V6gQbbOKn3NoPKfYKHjAKu_2BBCdtXXsTS2pf1BIdARccEtJQqlu1KFB2j2TcF0MCn)
-* [Post-Workshop Survey](https://www.surveymonkey.com/r/Preview/?sm=uN5QPa4MbF1_2BB1plbLWnL1ZUc7Nttqici0Nc0e3G4RahMwwGW5NUp4U5PKQDYmky)
+* [Pre-Workshop Survey](https://www.surveymonkey.com/r/?sm=V6gQbbOKn3NoPKfYKHjAKu_2BBCdtXXsTS2pf1BIdARccEtJQqlu1KFB2j2TcF0MCn)
+* [Post-Workshop Survey](https://www.surveymonkey.com/r/?sm=uN5QPa4MbF1_2BB1plbLWnL1ZUc7Nttqici0Nc0e3G4RahMwwGW5NUp4U5PKQDYmky)
 
 <br/>
 <br/>
