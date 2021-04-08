@@ -28,20 +28,25 @@ for an easy-to-follow tutorial on how to install these softwares on your compute
 
 |Timings|Topic|Details|
 |:----------|:----------------|:-----------------------|
-|**Day 1 [14th April, Wed]**  ||
+|**Day 1 <br>[14th April, Wed]**  ||
 |13:30-14:00|Pre workshop set up|Instructors/helpers available to make<br>sure participants have installed correct files and packages|
-|14:00 - 15:30*|[1. Introduction to R and RStudio](http://swcarpentry.github.io/r-novice-gapminder/01-rstudio-intro/index.html)| How to find your way around RStudio?<br>How to interact with R?<br>How to manage your environment?<br>How to install packages?|
-|15:30 - 15:45|**Break**||
-|15:45 - 16:30*|[2. Project Management With RStudio](http://swcarpentry.github.io/r-novice-gapminder/02-project-intro/index.html)| How can I manage my projects in R? |
-|16:30 - 17:00*|[3. Seeking Help](http://swcarpentry.github.io/r-novice-gapminder/03-seeking-help/index.html)|How can I get help in R?|
-|**Day 2 [21st April, Wed]**||
-|14:00 - 15:15*|We probabaly need an intro to dataframes here? What lesson would you use?	||
-|15:15 - 15:30|**Break**||
-|15:30- 17:00*|[5. Data frame Manipulation with dplyr](http://swcarpentry.github.io/r-novice-gapminder/13-dplyr/index.html)| How can I manipulate data frames without repeating myself? |
-|**Day 3 [28th April, Wed]** ||
-|14:00 - 15:45*|[6. Creating Publication-Quality Graphics with ggplot2](http://swcarpentry.github.io/r-novice-gapminder/08-plot-ggplot2/index.html)|How can I create publication-quality graphics in R?|
-|15:45- 16:00|**Break**||
-|16:00 - 17:00*|Insert another lesson here, or have an open session for questions and problems?	| |
+|14:00 - 14:15|[1. Project Management With RStudio](http://swcarpentry.github.io/r-novice-gapminder/02-project-intro/index.html)| How can I manage my projects in R? |
+|14:15 - 15:00|[2. Introduction to R and RStudio](http://swcarpentry.github.io/r-novice-gapminder/01-rstudio-intro/index.html)| How to find your way around RStudio?<br>How to interact with R?<br>How to manage your environment?<br>How to install packages?|
+|15:00 - 15:15|**Break**||
+|15:15 - 15:30|[3. Seeking Help](http://swcarpentry.github.io/r-novice-gapminder/03-seeking-help/index.html)|How can I get help in R?|
+|15:30 - 16:00|[4. Analyzing Data](http://swcarpentry.github.io/r-novice-inflammation/01-starting-with-data/index.html)|How do I read data into R? <br>How do I assign variables?<br>What is a data frame?<br>How do I access subsets of a data frame?<br>How do I calculate simple statistics like mean and median?<br>Where can I get help?<br>How can I plot my data?|
+|16:00 - 16:30|[5. Creating Functions](http://swcarpentry.github.io/r-novice-inflammation/02-func-R/index.html)|How do i make a function?|
+|16:30 - 17:00|[6. Analzing Multiple Data Sets](http://swcarpentry.github.io/r-novice-inflammation/03-loops-R/index.html)|How can I do the same thing to multiple data sets?<br>How do I write a for loop?|
+|**Day 2 <br>[21st April, Wed]**||
+|14:00 - 14:45|[1. Data frame Manipulation with dplyr](http://swcarpentry.github.io/r-novice-gapminder/13-dplyr/index.html)|How can I manipulate data frames without repeating myself? |
+|14:45 - 15:00|**Break**||
+|15:00- 17:00|[2. Data Wrangling with dplyr and tidyr](https://datacarpentry.org/r-socialsci/03-dplyr-tidyr/index.html)|  How can I reformat a dataframe to meet my needs? |
+|**Day 3 <br>[28th April, Wed]** ||
+|14:00 - 15:00*|[1. Data Visualisation with ggplot2](https://librarycarpentry.org/lc-r/04-data-viz-ggplot/index.html)|What are the components of a ggplot?<br>How do I create scatterplots, boxplots, and barplots? |
+|15:00- 15:15|**Break**||
+|15:15 - 16:00|[2. Data Visualisation with ggplot2](https://librarycarpentry.org/lc-r/04-data-viz-ggplot/index.html)|How can I change the aesthetics (ex. colour, transparency) of my plot?<br>How can I create multiple plots at once?|
+|16:00 - 17:00|[3. Open session for questions and discussion of the graph gallery](https://www.r-graph-gallery.com/index.html)||
+
 
 ## Assessment
 The Carpentries value a culture of assessment, and we are consistently 
